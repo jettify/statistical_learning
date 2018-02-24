@@ -1,0 +1,13 @@
+pytest
+pytest-cov
+pytest-sugar
+# science
+matplotlib
+numpy
+pandas
+patsy
+scikit-learn
+scipy
+seaborn
+statsmodels
+jupyter
